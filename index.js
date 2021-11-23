@@ -1,5 +1,5 @@
 const {Telegraf}=require('telegraf');
-const bot = new Telegraf('2126623375:AAFzW7h2rn2R0f0fw10N8abcR7soMq1nwjc')
+const bot = new Telegraf('')
 
 
 
